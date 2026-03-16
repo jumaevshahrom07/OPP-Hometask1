@@ -28,7 +28,7 @@ public class Car
         {
             Console.WriteLine("Ne dostatochna benzina");
         }
-        Mileage = miles;
+        Mileage += miles;
     }
 
     public void AddFuel(double gallons)

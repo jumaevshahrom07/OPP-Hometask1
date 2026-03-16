@@ -26,3 +26,4 @@ C:\Users\shahr\Desktop\Opp-ClassTask1\Hometask\obj\Debug\net10.0\refint\Hometask
 C:\Users\shahr\Desktop\Opp-ClassTask1\Hometask\obj\Debug\net10.0\Hometask.pdb
 C:\Users\shahr\Desktop\Opp-ClassTask1\Hometask\obj\Debug\net10.0\Hometask.genruntimeconfig.cache
 C:\Users\shahr\Desktop\Opp-ClassTask1\Hometask\obj\Debug\net10.0\ref\Hometask.dll
+C:\Users\shahr\Desktop\Opp-ClassTask1\Hometask\obj\Debug\net10.0\Hometask.sourcelink.json
